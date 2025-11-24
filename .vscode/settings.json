@@ -1,0 +1,6 @@
+{
+  "omnisharp.useModernNet": true,
+  "omnisharp.enableRoslynAnalyzers": true,
+  "omnisharp.sdkPath": "",
+  "omnisharp.dotnetPath": ""
+}

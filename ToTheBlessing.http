@@ -1,0 +1,11 @@
+@ToTheBlessing_HostAddress = http://localhost:5113
+
+GET {{ToTheBlessing_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{ToTheBlessing_HostAddress}}/todos/1
+Accept: application/json
+
+###
