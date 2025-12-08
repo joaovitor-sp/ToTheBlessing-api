@@ -41,7 +41,7 @@ O backend é responsável por:
 
 Você pode baixar a versão atual do aplicativo aqui:
 
-👉 **[Download app-release.apk](releases/app-release.apk)**
+👉 **[Baixar app-release.apk](https://raw.githubusercontent.com/joaovitor-sp/ToTheBlessing-api/main/releases/app-release.apk)**
 
 
 ---
