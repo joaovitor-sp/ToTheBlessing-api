@@ -31,8 +31,8 @@ O backend é responsável por:
 - **ASP.NET Core**
 - **Entity Framework Core**
 - **Firebase Authentication (ID Token)**
-- **Banco de Dados:** *adicionar aqui (PostgreSQL, SQL Server, etc.)*
-- **Armazenamento de Imagens:** *adicionar se usar S3, Firebase Storage, etc.*
+- **Banco de Dados:** *Firebase Cloud Firestore*
+- **Armazenamento de Imagens:** *Cloudnary*
 - **Cloud Run(GCP)**
 
 ---
